@@ -3,6 +3,7 @@
 - Comando para iniciar o Gemfile.
 
 ```bash
+# BUNDLE, equivalente ao NPM do nodejs
 bundle init
 ```
 
@@ -20,3 +21,6 @@ gem 'sinatra-activerecord'
 # Banco de dados usado no projeto
 gem 'sqlite3'
 ```
+
+- Apos adicionar as gems que serão usadas no projeto,
+  de um **bundle** no terminal
