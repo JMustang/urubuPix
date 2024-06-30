@@ -24,3 +24,11 @@ gem 'sqlite3'
 
 - Apos adicionar as gems que serão usadas no projeto,
   de um **bundle** no terminal
+
+---
+
+- O proximo comando vai criar o banco de dados
+
+```bash
+rake db:create
+```
